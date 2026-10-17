@@ -1,35 +1,82 @@
-<div align="center">
+# Manoj PVS
 
-  <!-- Animated Typing / Dynamic Header SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=Manoj+Pamidimukkala+(Manoj+PVS);AI+%26+Quantum+Software+Engineer;Low-Latency+Signal+Processing+%7C+Distributed+Systems" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <b>AI Research & Hybrid Quantum Systems Engineer</b>
+</p>
 
-  <p align="center">
-    <strong>Hybrid Quantum Computing • Low-Latency C++ Processing • Enterprise Architecture</strong>
-  </p>
-
-  <!-- Animated Tech Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  </p>
-
-  <!-- Dynamic Stats Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/github/stars/Manoj-pamidimukkkala?style=social" alt="Stars"/>
-    <img src="https://img.shields.io/github/followers/Manoj-pamidimukkkala?style=social" alt="Followers"/>
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-20/23-00599C?logo=c%2B%2B" alt="C++" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Qiskit-6F2DBF?logo=qiskit&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker" alt="Docker" />
+</p>
 
 ---
 
-### ⚡ Executive Brief
+### ⚡ Research Profile
+Undergraduate researcher and systems engineer specializing in **Generative AI architecture**, **prompt engineering frameworks**, and **hybrid quantum-classical optimization**. Focused on bridging theoretical algorithmic models with high-performance C++ and Python execution environments for complex decision systems, telemetry analysis, and scientific computing.
 
-> **AI & Quantum Software Engineer** working at the intersection of hybrid quantum algorithms, high-performance C++ signal processing, and enterprise backend platforms. Specialized in quantum optimization (QAOA/VQE), magnetometer subsurface navigation, counter-stealth radar compilation, and scalable real-time microservices.
+---
+
+### 🔬 Core Research Interests
+
+* **Prompt Engineering & Cognitive Architectures:** Systematic prompt optimization (DSPy), Chain-of-Thought (CoT) reasoning loops, multi-agent orchestration, and deterministic LLM evaluation benchmarks.
+* **Quantum Computing & Optimization:** Variational Quantum Eigensolvers (VQE), Quantum Approximate Optimization Algorithms (QAOA), and Quadratic Unconstrained Binary Optimization (QUBO) problem formulations.
+* **Signal Processing & Sensor Fusion:** Non-GPS dependent navigation, magnetometer anomaly detection, and real-time noise-resilient filtering under high RF noise constraints.
+* **High-Performance Infrastructure:** Distributed microservices, hardware-accelerated numerical solvers, and low-latency execution runtimes.
+
+---
+
+### 🧪 Key Research & Engineering Projects
+
+#### 1. AI-Quantum-Circuit-Engine
+*Algorithmic framework bridging classical machine learning pipelines with quantum circuit simulations.*
+* **Architecture:** Formulates quantum gate operations and parameter optimization loops using hybrid classical gradient descent routines.
+* **Implementation:** Built modular simulation backends to evaluate circuit fidelity and state evolution under simulated noise profiles.
+* **Stack:** Python, Qiskit, NumPy, SciPy, PyTorch.
+
+#### 2. Adaptive Prompt Optimization & Evaluation Framework
+*Systematic prompt engineering pipeline focusing on semantic alignment, reduction of hallucinations, and structured JSON output validation.*
+* **Architecture:** Implements multi-stage reasoning workflows utilizing Chain-of-Thought (CoT), few-shot self-consistency, and ReAct agent loops.
+* **Evaluation:** Utilizes automated LLM-as-a-judge metrics and test-driven prompt iterations for domain-specific knowledge retrieval.
+* **Stack:** Python, LangChain, DSPy, OpenAI/Anthropic APIs, Pydantic.
+
+#### 3. Q-Sensing-NAV: Subsurface & Counter-Stealth Defense Engine
+*Quantum-enhanced target detection and environmental magnetic anomaly mapping for GPS-denied environments.*
+* **Architecture:** High-throughput numerical solvers modeling subtle field distortions under adversarial RF noise profiles.
+* **Implementation:** Designed real-time sensor ingestion algorithms capable of high-precision spatial state estimation.
+* **Stack:** Python, SciPy, Matplotlib, C++.
+
+#### 4. Quantum-Portfolio-Optimization-Risk-Engine
+*Hybrid quantum optimization platform for complex non-convex risk analysis.*
+* **Architecture:** Formulates combinatorial asset allocation problems into QUBO models resolved via hybrid QAOA/VQE routines.
+* **Implementation:** Distributed microservice backend ensuring deterministic risk calculation and scalability.
+* **Stack:** Java, Spring Boot, Python, REST APIs, Docker.
+
+#### 5. System-Architecture-Hybrid-C++20-Python-QEM-Engine
+*Heterogeneous computing platform combining low-latency signal ingestion with high-level Python analytics.*
+* **Architecture:** C++20 core modules handling high-frequency telemetry streams coupled with Python-based quantum expectation value routines.
+* **Implementation:** Optimized memory management and lock-free queues for zero-copy inter-process communication.
+* **Stack:** C++20, Python, Eigen, ZeroMQ, CMake.
+
+---
+
+### 🛠️ Technical Stack
+
+| Category | Tools, Languages & Frameworks |
+| :--- | :--- |
+| **Languages & Systems** | Python, C++ (20/23), Java, TypeScript, SQL |
+| **AI & LLM Tooling** | Prompt Engineering (CoT, ReAct), DSPy, RAG Pipelines, PyTorch, LangChain |
+| **Quantum Computing** | Qiskit, VQE, QAOA, QUBO Modeling, Circuit Simulation |
+| **Scientific & Math** | NumPy, SciPy, Eigen, Numerical Solvers, Statistical Modeling |
+| **Infrastructure & DevOps** | Docker, Git/GitHub, Linux, FastAPI, Spring Boot, CI/CD |
+
+---
+
+### 📊 GitHub Diagnostics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-pamidimukkkala&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-pamidimukkkala&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
