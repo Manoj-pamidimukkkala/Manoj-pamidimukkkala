@@ -30,6 +30,35 @@
 
 ---
 
-### ⚡ Executive Brief
+### ⚡ Executive Brief & Research Profile
 
 > **AI & Quantum Software Engineer** working at the intersection of hybrid quantum algorithms, high-performance C++ signal processing, and enterprise backend platforms. Specialized in quantum optimization (QAOA/VQE), magnetometer subsurface navigation, counter-stealth radar compilation, and scalable real-time microservices.
+
+* **What I Do:** Build robust computational pipelines bridging theoretical algorithmic models with high-performance C++ and Python execution environments for complex decision systems, telemetry analysis, and scientific computing.
+* **Why It Matters:** Modern computational challenges demand low-latency execution and novel optimization methods to solve complex non-convex problems where classical heuristics fall short.
+* **How It's Engineered:** Leveraging modern C++20/23, distributed microservices, zero-copy IPC, and systematic prompt engineering frameworks to create reliable, deterministic production systems.
+
+---
+
+### 🔬 Core Research & Technical Interests
+
+* **Prompt Engineering & Cognitive Architectures:** Systematic prompt optimization (DSPy), Chain-of-Thought (CoT) reasoning loops, multi-agent orchestration, and deterministic LLM evaluation benchmarks.
+* **Quantum Computing & Optimization:** Variational Quantum Eigensolvers (VQE), Quantum Approximate Optimization Algorithms (QAOA), and Quadratic Unconstrained Binary Optimization (QUBO) problem formulations.
+* **Signal Processing & Sensor Fusion:** Non-GPS dependent navigation, magnetometer anomaly detection, and real-time noise-resilient filtering under high RF noise constraints.
+* **High-Performance Infrastructure:** Distributed microservices, hardware-accelerated numerical solvers, and low-latency execution runtimes.
+
+---
+
+### 🧪 Key Research & Engineering Projects
+
+#### 1. AI-Quantum-Circuit-Engine
+*Algorithmic framework bridging classical machine learning pipelines with quantum circuit simulations.*
+* **Architecture:** Formulates quantum gate operations and parameter optimization loops using hybrid classical gradient descent routines.
+* **Implementation:** Built modular simulation backends to evaluate circuit fidelity and state evolution under simulated noise profiles.
+* **Example Usage:** Executing parametrized quantum circuits to compute expectation values:
+  ```python
+  from qiskit import QuantumCircuit
+  circuit = QuantumCircuit(2, 2)
+  circuit.h(0)
+  circuit.cx(0, 1)
+  # Evaluates circuit state evolution under simulated noise
